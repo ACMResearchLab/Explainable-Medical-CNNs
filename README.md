@@ -19,7 +19,11 @@ SAM Masks in comparison with bounded boxes:
 </p>
 
 SAM Masks with GRAD-CAM saliency maps:
+
 <p align="middle">
   <img src="images/AUPRC0.23vs0.34.png" width="300" />
+</p>
+
+<p align="middle">
   <img src="images/AUPRC0.50vs0.64.png" width="300" /> 
 </p>
