@@ -13,3 +13,4 @@ of SAM within the medical domain, including image pre-processing before segmenti
 language proposals to SAM in the form of CLIP-SAM, and SAM accuracy across multiple medical
 imaging datasets.
 
+![test](images/SAMAUCJuddDist.png)
