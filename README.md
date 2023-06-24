@@ -10,8 +10,6 @@ Analyzing our approach with the [Malaria Bounded Boxes dataset](https://www.kagg
 </p>
 
 ## Examples 
-The following are examples of SAM Masks in comparison with bounded boxes, as well as SAM masks with GRAD-CAM saliency maps. 
-
 SAM Masks in comparison with bounded boxes: 
 
 <p align="middle">
@@ -24,6 +22,9 @@ SAM Masks with GRAD-CAM saliency maps:
 |:--:| 
 | *AUPRC score of 0.23 vs 0.34 (SAM has lower scores)* | 
 
+# Paper Link: 
+For further information about models chosen for GRAD-CAM, and image processing approaches for SAM please, visit the arXiv paper page: 
+*link coming soon*
 
 
 | ![img2.jpg](images/AUPRC0.50vs0.64.png) | 
