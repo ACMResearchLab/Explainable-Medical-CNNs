@@ -20,6 +20,10 @@ SAM Masks in comparison with bounded boxes:
 
 SAM Masks with GRAD-CAM saliency maps:
 
+| ![img1.jpg]images/AUPRC0.23vs0.34.png) | 
+|:--:| 
+| *AUPRC score of 0.23 vs 0.34 (SAM has lower scores)* |
+
 <p align="middle">
   <img src="images/AUPRC0.23vs0.34.png" width="300" />
   <em>AUPRC score of 0.23 vs 0.34 (SAM has lower scores)</em>
