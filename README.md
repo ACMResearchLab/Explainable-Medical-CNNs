@@ -22,8 +22,10 @@ SAM Masks with GRAD-CAM saliency maps:
 
 <p align="middle">
   <img src="images/AUPRC0.23vs0.34.png" width="300" />
+  <em>AUPRC score of 0.23 vs 0.34 (SAM has lower scores)</em>
 </p>
 
 <p align="middle">
   <img src="images/AUPRC0.50vs0.64.png" width="300" /> 
+  <em>AUPRC score of 0.50 vs 0.64 (SAM has lower scores)</em>
 </p>
