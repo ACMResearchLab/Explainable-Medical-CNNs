@@ -5,6 +5,9 @@ The introduction of saliency map algorithms as an approach for assessing the int
 Analyzing our approach with the [Malaria Bounded Boxes dataset](https://www.kaggle.com/datasets/kmader/malaria-bounding-boxes), we found extremely similar results in comparison with AUC Judd, but against AUPRC, results showed our methodology to be more strict in how well GRAD-CAM localized. While we used a dataset with bounded boxes, in theory, this methodology can be used for any binary classification task, without any sort of segmentation pre-existing. We chose the dataset to serve as a ground truth for comparisons in metrics. Below are figures describing AUC Judd and AUPRC graphs from the bounded box vs SAM approach. 
 
 <p align="middle">
-  <img src="images/SAMAUCJuddDist.png" width="256" />
-  <img src="images/SAMAUPRCDist.png" width="256" /> 
+  <img src="images/SAMAUCJuddDist.png" width="300" />
+  <img src="images/SAMAUPRCDist.png" width="300" /> 
 </p>
+
+## Examples 
+The following are examples of SAM Masks in comparison with bounded boxes, as well as SAM masks with GRAD-CAM saliency maps 
