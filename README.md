@@ -22,11 +22,12 @@ SAM Masks with GRAD-CAM saliency maps:
 |:--:| 
 | *AUPRC score of 0.23 vs 0.34 (SAM has lower scores)* | 
 
-# Paper Link: 
-For further information about models chosen for GRAD-CAM, and image processing approaches for SAM please, visit the arXiv paper page: 
-*link coming soon*
-
 
 | ![img2.jpg](images/AUPRC0.50vs0.64.png) | 
 |:--:| 
 | *AUPRC score of 0.50 vs 0.64 (SAM has lower scores)* |
+
+# Paper Link: 
+For further information about models chosen for GRAD-CAM, and image processing approaches for SAM please, visit the arXiv paper page: 
+*link coming soon*
+
