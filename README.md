@@ -15,7 +15,7 @@ The following are examples of SAM Masks in comparison with bounded boxes, as wel
 SAM Masks in comparison with bounded boxes: 
 
 <p align="middle">
-  <img src="images/exampleseg2.png" width="300" />
+  <img src="images/exampleseg2.png" width="600" />
 </p>
 
 SAM Masks with GRAD-CAM saliency maps:
