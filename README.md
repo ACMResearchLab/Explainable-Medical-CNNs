@@ -29,5 +29,6 @@ SAM Masks with GRAD-CAM saliency maps:
 
 # Paper Link: 
 For further information about models chosen for GRAD-CAM, and image processing approaches for SAM please, visit the arXiv paper page: 
-*link coming soon*
+https://arxiv.org/pdf/2306.15692.pdf
+
 
